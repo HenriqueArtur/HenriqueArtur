@@ -1,8 +1,8 @@
-<h1 align='center' style="color: #F12166; background-color: #181433; padding: 10px; margin: 10px;">
+<h1 align='center'>
   Hi there 👋 I'm Henrique Artur
 </h1>
 
-<div align='center' style="color: #F1E4F1; background-color: #181433; padding: 10px; margin: 10px;">
+<div align='center'>
   <p>
     👨‍💻 A Web Developer from Fortaleza - CE, Brazil. 👨‍💻
   </p>
@@ -14,12 +14,12 @@
   </p>
 </div>
 
-<p align='center' style="color: #F12166; background-color: #181433; padding: 10px; margin: 10px;">
+<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueArtur&hide=contribs,prs&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueArtur&layout=compact&theme=radical&hide=Java" />
 </p>
 
-<h2 align='center' style="color: #F12166; background-color: #181433; padding: 10px; margin: 10px;">
+<h2 align='center'>
 🚀 Skills and Tools 🚀
 </h2>
 <p align='center'>
@@ -39,23 +39,23 @@
 
 <h2 align='center'>📣 Contact 📣</h2>
 <p align='center'>
-  <a href="https://github.com/HenriqueArtur/">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=HenriqueArtur" />
+  <a href="mailto:contato@henriqueartur.com">
+    <img src="https://img.shields.io/badge/Email-flat?logo=GMail&style=for-the-badge&logoColor=181433&labelColor=F12166&color=181433&logoWidth=30" />
   </a>&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/henriqueartur/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriqueartur/" />
+    <img src="https://img.shields.io/badge/LinkedIn-flat?logo=LinkedIn&style=for-the-badge&logoColor=181433&labelColor=F12166&color=181433&logoWidth=30" />
   </a>&nbsp;&nbsp;
   <a href="https://api.whatsapp.com/send?phone=5585996005410&text=Ol%C3%A1%2C%20Henrique!">
-    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585996005410&text=Ol%C3%A1%2C%20Henrique!" />
+    <img src="https://img.shields.io/badge/Whatsapp-flat?logo=Whatsapp&style=for-the-badge&logoColor=181433&labelColor=F12166&color=181433&logoWidth=30" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:contato@henriqueartur.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contato@henriqueartur.com" />
+  <a href="https://github.com/HenriqueArtur/">
+    <img src="https://img.shields.io/badge/GitHub-flat?logo=GitHub&style=for-the-badge&logoColor=181433&labelColor=F12166&color=181433&logoWidth=30" />
   </a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     Thanks for visiting.
 </p>
-
 
 <!--
 **HenriqueArtur/HenriqueArtur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
