@@ -1,22 +1,28 @@
-<h1 align='center'>
+<h1 align='center' style="color: #F12166; background-color: #181433; padding: 10px; margin: 10px;">
   Hi there 👋 I'm Henrique Artur
 </h1>
-<p align='center'>
-  👨‍💻 A Web Developer from Fortaleza - CE, Brazil. 👨‍💻
-</p>
-<p align='center'>
-  🎓 Digital Systems and Media student at Federal University of Ceará. 🎓
-</p>
-<p align='center'>
-  👔 Game Executive Producer and Fullstack Developer at TGD Studio. 👔
-</p>
-<p align='center'>
+
+<div align='center' style="color: #F1E4F1; background-color: #181433; padding: 10px; margin: 10px;">
+  <p>
+    👨‍💻 A Web Developer from Fortaleza - CE, Brazil. 👨‍💻
+  </p>
+  <p>
+    🎓 Digital Systems and Media student at Federal University of Ceará. 🎓
+  </p>
+  <p>
+    👔 Game Executive Producer and Fullstack Developer at TGD Studio. 👔
+  </p>
+</div>
+
+<p align='center' style="color: #F12166; background-color: #181433; padding: 10px; margin: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueArtur&hide=contribs,prs&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueArtur&layout=compact&theme=radical&hide=Java" />
 </p>
 
-<h2 align='center'>🚀 Skills 🚀</h2>
-<p>
+<h2 align='center' style="color: #F12166; background-color: #181433; padding: 10px; margin: 10px;">
+🚀 Skills and Tools 🚀
+</h2>
+<p align='center'>
   <img src="https://img.shields.io/badge/HTML5-flat?logo=html5&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/CSS3-flat?logo=css3&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/JavaScript-flat?logo=JavaScript&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
@@ -24,7 +30,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-flat?logo=Bootstrap&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/WordPress-flat?logo=WordPress&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Ruby-flat?logo=Ruby&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Ruby+on+Rails-flat?logo=Ruby+on+Rails&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-flat?logo=Ruby+on+Rails&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/React-flat?logo=React&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Git-flat?logo=Git&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Linux-flat?logo=Linux&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
