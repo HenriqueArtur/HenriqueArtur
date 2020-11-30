@@ -10,7 +10,7 @@
     🎓 Digital Systems and Media student at Federal University of Ceará. 🎓
   </p>
   <p>
-    👔 Game Executive Producer and Fullstack Developer at TGD Studio. 👔
+    👔 Producer and Fullstack Developer at TGD Studio. 👔
   </p>
 </div>
 
@@ -23,15 +23,17 @@
 🚀 Skills and Tools 🚀
 </h2>
 <p align='center'>
-  <img src="https://img.shields.io/badge/HTML5-flat?logo=html5&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/CSS3-flat?logo=css3&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Vue.js-flat?logo=Vue.js&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/JavaScript-flat?logo=JavaScript&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Buefy-flat?logo=Buefy&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Nuxt.js-flat?logo=Nuxt.js&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/React-flat?logo=React&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/SASS-flat?logo=SASS&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Bootstrap-flat?logo=Bootstrap&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/WordPress-flat?logo=WordPress&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Ruby-flat?logo=Ruby&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Ruby_on_Rails-flat?logo=Ruby+on+Rails&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/React-flat?logo=React&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/PostgreSQL-flat?logo=PostgreSQL&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Node.js-flat?logo=Node.js&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Git-flat?logo=Git&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Linux-flat?logo=Linux&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Scrum-framework_-flat?&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
