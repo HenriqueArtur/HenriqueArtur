@@ -10,7 +10,7 @@
     🎓 Digital Systems and Media student at Federal University of Ceará. 🎓
   </p>
   <p>
-    👔 Jr Systems Analyst at neWave Telecom by day, Producer and Programmer at CosMonkeys by nigh 👔
+    👔 Jr Systems Analyst at neWave Telecom by day, Producer and Programmer at CosMonkeys by night 👔
   </p>
   <p>
    🏆 TGD's and CosMonkeys' co-founder 🏆
