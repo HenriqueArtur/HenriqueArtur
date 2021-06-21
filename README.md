@@ -10,7 +10,10 @@
     🎓 Digital Systems and Media student at Federal University of Ceará. 🎓
   </p>
   <p>
-    👔 Producer and Fullstack Developer at TGD Studio. 👔
+    👔 Jr Systems Analyst at neWave Telecom by day, Producer and Programmer at CosMonkeys by nigh 👔
+  </p>
+  <p>
+   🏆 TGD's and CosMonkeys' co-founder 🏆
   </p>
 </div>
 
