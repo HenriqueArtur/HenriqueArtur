@@ -4,7 +4,7 @@
 
 <div align='center'>
   <p>
-    👨‍💻 A Web Developer from Fortaleza - CE, Brazil. 👨‍💻
+    👨‍💻 A Full-stack Developer from Fortaleza - CE, Brazil. 👨‍💻
   </p>
   <p>
     🎓 Digital Systems and Media student at Federal University of Ceará. 🎓
