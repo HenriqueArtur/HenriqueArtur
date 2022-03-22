@@ -7,10 +7,10 @@
     👨‍💻 A Full-stack Developer from Fortaleza - CE, Brazil. 👨‍💻
   </p>
   <p>
-    🎓 Digital Systems and Media student at Federal University of Ceará. 🎓
+    🎓 Graduated in Digital Systems and Media at Federal University of Ceará. 🎓
   </p>
   <p>
-    👔 Jr Systems Analyst at neWave Telecom by day, Producer and Programmer at CosMonkeys by night 👔
+    👔 Systems Analyst at neWave Telecom 👔
   </p>
   <p>
    🏆 TGD's and CosMonkeys' co-founder 🏆
@@ -26,19 +26,14 @@
 🚀 Skills and Tools 🚀
 </h2>
 <p align='center'>
-  <img src="https://img.shields.io/badge/Vue.js-flat?logo=Vue.js&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Buefy-flat?logo=Buefy&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Nuxt.js-flat?logo=Nuxt.js&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/React-flat?logo=React&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/PostgreSQL-flat?logo=PostgreSQL&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Node.js-flat?logo=Node.js&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/SASS-flat?logo=SASS&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Bootstrap-flat?logo=Bootstrap&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/WordPress-flat?logo=WordPress&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-flat?logo=Ruby+on+Rails&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/JavaScript-flat?logo=JavaScript&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/TypeScript-flat?logo=TypeScript&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Node.js-flat?logo=Node.js&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/PostgreSQL-flat?logo=PostgreSQL&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Git-flat?logo=Git&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Linux-flat?logo=Linux&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/React-flat?logo=React&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Elixir-flat?logo=Elixir&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Scrum-framework_-flat?&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
 </p>
 
