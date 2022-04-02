@@ -18,8 +18,8 @@
 </div>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueArtur&hide=contribs&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueArtur&layout=compact&theme=radical&hide=Java" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueArtur&hide=contribs&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueArtur&layout=compact&theme=dark&hide=Java,PHP,Ruby" />
 </p>
 
 <h2 align='center'>
