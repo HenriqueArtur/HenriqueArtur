@@ -19,7 +19,7 @@
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueArtur&hide=contribs&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueArtur&layout=compact&theme=dark&hide=Java,PHP,Ruby,HTML,CSS,SCSS" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueArtur&layout=compact&theme=dark&hide=Java,PHP,Ruby,HTML,CSS,SCSS,Hack" />
 </p>
 
 <h2 align='center'>
