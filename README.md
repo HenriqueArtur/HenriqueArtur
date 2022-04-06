@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Linux-flat?logo=Linux&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/React-flat?logo=React&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
   <img src="https://img.shields.io/badge/Elixir-flat?logo=Elixir&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Scrum-framework_-flat?&style=for-the-badge&logoColor=F12166&labelColor=181433&color=828494&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Scrum-framework_-flat?&style=for-the-badge&logoColor=FFF&labelColor=FF5F56&color=000&logoWidth=30" />
 </p>
 
 <h2 align='center'>📣 Contact 📣</h2>
