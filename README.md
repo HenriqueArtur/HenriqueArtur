@@ -26,27 +26,27 @@
 🚀 Skills and Tools 🚀
 </h2>
 <p align='center'>
-  <img src="https://img.shields.io/badge/JavaScript-flat?logo=JavaScript&style=for-the-badge&logoColor=FFF&labelColor=FF5F56&color=000&logoWidth=30" />
-  <img src="https://img.shields.io/badge/TypeScript-flat?logo=TypeScript&style=for-the-badge&logoColor=FFF&labelColor=FFBD2E&color=000&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Node.js-flat?logo=Node.js&style=for-the-badge&logoColor=FFF&labelColor=27C93F&color=000&logoWidth=30" />
-  <img src="https://img.shields.io/badge/PostgreSQL-flat?logo=PostgreSQL&style=for-the-badge&logoColor=FFF&labelColor=FF5F56&color=000&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Git-flat?logo=Git&style=for-the-badge&logoColor=FFF&labelColor=FFBD2E&color=000&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Linux-flat?logo=Linux&style=for-the-badge&logoColor=FFF&labelColor=27C93F&color=000&logoWidth=30" />
-  <img src="https://img.shields.io/badge/React-flat?logo=React&style=for-the-badge&logoColor=FFF&labelColor=FF5F56&color=000&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Elixir-flat?logo=Elixir&style=for-the-badge&logoColor=FFF&labelColor=FFBD2E&color=000&logoWidth=30" />
-  <img src="https://img.shields.io/badge/Scrum-framework_-flat?&style=for-the-badge&logoColor=FFF&labelColor=27C93F&color=000&logoWidth=30" />
+  <img src="https://img.shields.io/badge/JavaScript-flat?logo=JavaScript&style=for-the-badge&logoColor=FF5F56&labelColor=000&color=000&logoWidth=30" />
+  <img src="https://img.shields.io/badge/TypeScript-flat?logo=TypeScript&style=for-the-badge&logoColor=FFBD2E&labelColor=000&color=000&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Node.js-flat?logo=Node.js&style=for-the-badge&logoColor=27C93F&labelColor=000&color=000&logoWidth=30" />
+  <img src="https://img.shields.io/badge/PostgreSQL-flat?logo=PostgreSQL&style=for-the-badge&logoColor=FF5F56&labelColor=000&color=000&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Git-flat?logo=Git&style=for-the-badge&logoColor=FFBD2E&labelColor=000&color=000&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Linux-flat?logo=Linux&style=for-the-badge&logoColor=27C93F&labelColor=000&color=000&logoWidth=30" />
+  <img src="https://img.shields.io/badge/React-flat?logo=React&style=for-the-badge&logoColor=FF5F56&labelColor=000&color=000&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Elixir-flat?logo=Elixir&style=for-the-badge&logoColor=FFBD2E&labelColor=000&color=000&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Scrum-framework_-flat?&style=for-the-badge&logoColor=27C93F&labelColor=000&color=000&logoWidth=30" />
 </p>
 
 <h2 align='center'>📣 Contact 📣</h2>
 <p align='center'>
   <a href="mailto:contato@henriqueartur.com">
-    <img src="https://img.shields.io/badge/Email-flat?logo=GMail&style=for-the-badge&logoColor=FFF&labelColor=FF5F56&color=000&logoWidth=30" />
+    <img src="https://img.shields.io/badge/Email-flat?logo=GMail&style=for-the-badge&logoColor=FF5F56&labelColor=000&color=000&logoWidth=30" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/henriqueartur/">
-    <img src="https://img.shields.io/badge/LinkedIn-flat?logo=LinkedIn&style=for-the-badge&logoColor=FFF&labelColor=FFBD2E&color=000&logoWidth=30" />
+    <img src="https://img.shields.io/badge/LinkedIn-flat?logo=LinkedIn&style=for-the-badge&logoColor=FFBD2E&labelColor=000&color=000&logoWidth=30" />
   </a>&nbsp;&nbsp;
   <a href="https://api.whatsapp.com/send?phone=5585996005410&text=Ol%C3%A1%2C%20Henrique!">
-    <img src="https://img.shields.io/badge/Whatsapp-flat?logo=Whatsapp&style=for-the-badge&logoColor=FFF&labelColor=27C93F&color=000&logoWidth=30" />
+    <img src="https://img.shields.io/badge/Whatsapp-flat?logo=Whatsapp&style=for-the-badge&logoColor=27C93F&labelColor=000&color=000&logoWidth=30" />
   </a>&nbsp;&nbsp;
 </p>
 <p align='center'>
