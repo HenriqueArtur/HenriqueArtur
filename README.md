@@ -4,13 +4,13 @@
 
 <div align='center'>
   <p>
-    👨‍💻 A Full-stack Developer from Fortaleza - CE, Brazil. 👨‍💻
+    👨‍💻 A Generalist programmer from Fortaleza - CE, Brazil. 👨‍💻
   </p>
   <p>
     🎓 Graduated in Digital Systems and Media at Federal University of Ceará. 🎓
   </p>
   <p>
-    👔 Systems Analyst at neWave Telecom 👔
+    👔 Generalist programmer at Bugaboo Studio 👔
   </p>
   <p>
    🏆 TGD's and CosMonkeys' co-founder 🏆
