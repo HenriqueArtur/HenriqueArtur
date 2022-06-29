@@ -10,8 +10,8 @@
 ### 📈 Stats
 <p align='center'>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=HenriqueArtur&hide=contribs&show_icons=true&bg_color=000&title_color=27C93F&text_color=FFF&icon_color=FFBD2E&border_color=FF5F56&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueArtur&bg_color=000&title_color=FF5F56&text_color=FFF&icon_color=FFBD2E&border_color=FF5F56&hide_border=true&layout=compact&hide=Java,PHP,Ruby,HTML,CSS,SCSS,Hack,CoffeeScript,Less" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HenriqueArtur&count_private=true&hide=contribs&show_icons=true&bg_color=000&title_color=27C93F&text_color=FFF&icon_color=FFBD2E&border_color=FF5F56&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueArtur&count_private=true&bg_color=000&title_color=FF5F56&text_color=FFF&icon_color=FFBD2E&border_color=FF5F56&hide_border=true&layout=compact&hide=Java,PHP,Ruby,HTML,CSS,SCSS,Hack,CoffeeScript,Less" />
   </div>
 </p>
 
