@@ -1,6 +1,6 @@
           
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="150"/>
   <div id="badges">
     <a href="mailto:contato@henriqueartur.com">
       <img src="https://img.shields.io/badge/Email-flat?logo=GMail&style=for-the-badge&logoColor=a277ff&labelColor=15141b&color=000&logoWidth=30" alt="Email Badge"/>
