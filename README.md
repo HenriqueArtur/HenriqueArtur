@@ -1,6 +1,10 @@
           
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="150"/>
+  <br/>
+  <a href="http://henriqueartur.com" target= “_blank”>🔗 henriqueartur.com 🔗<a>
+  <br/>
+  <br/>
   <div id="badges">
     <a href="mailto:contato@henriqueartur.com">
       <img src="https://img.shields.io/badge/Email-flat?logo=GMail&style=for-the-badge&logoColor=a277ff&labelColor=15141b&color=000&logoWidth=30" alt="Email Badge"/>
@@ -14,6 +18,7 @@
   </div>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=HenriqueArtur&color=a277ff&style=flat-square" alt=""/>
+  <br/>
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Hi there I'm Henrique Artur
@@ -23,6 +28,7 @@
 
 ```
 > [👨‍💻] A Full Stack and Game programmer from Fortaleza - CE, Brazil.
+> [😜] I like put emoji in everything.
 > [🛠️] Elixir enthusiast, Ts/Js and Unity boy.
 > [🎓] Graduated in Digital Systems and Media at Federal University of Ceará.
 > [👔] Full Stack and Game programmer at Bugaboo Studio.
