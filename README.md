@@ -31,7 +31,7 @@
 > [😜] I like put emoji in everything.
 > [🛠️] Elixir enthusiast, Ts/Js and Unity boy.
 > [🎓] Graduated in Digital Systems and Media at Federal University of Ceará.
-> [👔] Full Stack and Game programmer at Bugaboo Studio.
+> [👔] Full Stack and Game programmer.
 > [🎮] TGD's and CosMonkeys' co-founder.
 > [⌨️] I'm not afraid of the shell.
 > [🐧] Linux user.
